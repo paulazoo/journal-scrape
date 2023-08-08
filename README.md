@@ -1,4 +1,5 @@
 # General:
-Web scraper for science articles written in Python by Paula Zhu
+Automatically email recent science articles from the last week written in Python by Paula Zhu
 
-# Troubleshooting 230724:
+# Reqs:
+- selenium & chromedriver
